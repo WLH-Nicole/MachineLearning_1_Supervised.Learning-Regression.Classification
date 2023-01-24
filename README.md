@@ -1,1 +1,2 @@
-# MachineLearning_1_Supervised.Learning-Regression.Classification
+# Supervised Machine Learning: Regression and Classification 
+## (Coursera - Machine Learning Specialization)
